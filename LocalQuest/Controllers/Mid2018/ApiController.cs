@@ -823,7 +823,7 @@ namespace LocalQuest.Controllers.Mid2018
         {
             if (RoomManager.AllRooms == null)
             {
-                Log.Warn("invalid rooms list");
+                Log.Warn("Invalid rooms list");
                 return new List<FullRoom>();
             }
 
