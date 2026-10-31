@@ -218,7 +218,7 @@ namespace LocalQuest.Controllers.MidLate2018
             List<FeaturedRoom> Rooms = new List<FeaturedRoom>();
             if(RoomManager.AllRooms == null)
             {
-                Log.Warn("rooms not found.");
+                Log.Warn("Rooms not found.");
                 return new FeaturedRoomGroup()
                 {
                     Name = "no rooms"
