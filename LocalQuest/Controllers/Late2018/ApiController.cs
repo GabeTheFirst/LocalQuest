@@ -184,7 +184,7 @@ namespace LocalQuest.Controllers.Late2018
 
             if (RoomManager.AllRooms == null)
             {
-                Log.Warn("rooms not found!");
+                Log.Warn("Rooms not found!");
                 return new Models.MidLate2018.MatchmakeResponse()
                 {
                     Result = Models.MidLate2018.MatchmakeResult.NoSuchRoom
