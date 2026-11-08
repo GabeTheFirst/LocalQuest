@@ -1,3 +1,5 @@
+# MOVED https://codeberg.org/GabeTheFirst/LocalQuest
+
 ![Image](https://raw.githubusercontent.com/Epic-Quest/LocalQuest-Data/refs/heads/main/Images/BannerImg.png)
 # LocalQuest - A Localhost Rec Room custom server 🙀
 ## What's localquest?
